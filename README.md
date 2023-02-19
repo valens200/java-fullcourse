@@ -1,4 +1,4 @@
-# java_basics
+# java_fullcourse
 Come and cover all java basics and advanced concepts  here. start from zero to hero!!!
 
 
