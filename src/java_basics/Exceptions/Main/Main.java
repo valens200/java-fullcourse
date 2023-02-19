@@ -1,6 +1,6 @@
-package java_basics.Main;
+package java_basics.Exceptions.Main;
 
-import java_basics.abstruct_interfaces.Playing;
+import java_basics.OOP.Abstruction.abstruct_interfaces.Playing;
 import java_basics.generics.Book;
 import java_basics.objectOperators.Person;
 

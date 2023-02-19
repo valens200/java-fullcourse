@@ -1,7 +1,7 @@
 /**
  * 
  */
-package java_basics.overview;
+package java_basics.OOP.inheritance.overview;
 /**
  * @author valens niyonsenga
  *

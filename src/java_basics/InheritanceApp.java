@@ -1,8 +1,8 @@
 package java_basics;
 
-import java_basics.inheritanceApp.Rectangle;
-import java_basics.inheritanceApp.Shape;
-import java_basics.inheritanceApp.Square;
+import java_basics.OOP.inheritance.Rectangle;
+import java_basics.OOP.inheritance.Shape;
+import java_basics.OOP.inheritance.Square;
 
 public class InheritanceApp {
     public static void main(String[] args) {

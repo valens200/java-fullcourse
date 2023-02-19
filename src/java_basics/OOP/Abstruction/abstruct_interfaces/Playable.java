@@ -1,4 +1,4 @@
-package java_basics.abstruct_interfaces;
+package java_basics.OOP.Abstruction.abstruct_interfaces;
 
 public interface   Playable {
     public void play();

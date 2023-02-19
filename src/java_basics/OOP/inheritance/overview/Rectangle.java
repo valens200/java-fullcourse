@@ -1,13 +1,13 @@
 /**
  * 
  */
-package java_basics.overview;
+package java_basics.OOP.inheritance.overview;
 
 /**
  * @author Aphrodice Rwagaju
  *
  */
-public class Triangle extends Shape {
+public class Rectangle extends Shape {
 	
 	private float height;
 	private float width;
@@ -24,14 +24,8 @@ public class Triangle extends Shape {
 	public void setWidth(float width) {
 		this.width = width;
 	}
-	@Override
+	
 	public void sayYourType() {
-		System.out.println("I am sub class Triangle");
+		System.out.println("I am sub class Rectangle");
 	}
-	
-	@Override
-	public String toString() {
-		return "Triangle [height=" + height + ", width=" + width + "]";
-	}
-	
 }

@@ -1,3 +1,7 @@
+/*
+* @author valens NIYONSENGA || valensniyonsenga2003@gmail.com {Student at Rwanda Coding Academy
+  @inspired by Rwagaju aphrodice || aphrorwa@gmail.com {Programming instructor at Rwanda Coding Academy}
+*  */
 package java_advanced.multthreading.inter_trade_communication.usingLocks_condition.banking_example.helperClasses;
 
 public class BankAccount {

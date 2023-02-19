@@ -3,6 +3,16 @@
   @inspired by Rwagaju aphrodice || aphrorwa@gmail.com {Programming instructor at Rwanda Coding Academy}
 *  */
 
+
+
+
+
+  /*
+    Thread priorities
+
+    a thread priority is a chance a thread is given by CPU to be allowed to execute. priorities range from 0 10 integer numbers
+   */
+
 package java_advanced.multthreading.thread_priotities;
 public class Main {
     public static void main(String[] args) throws InterruptedException {
@@ -19,6 +29,15 @@ public class Main {
 
         helloThread.setName("hello thread");
         hiThread.setName("hi thread");
+
+        //setting priorities to all of above threads
+        hiThread.setPriority(4);
+        helloThread.setPriority(10);
+        //by using priorities classes
+        /*
+        hiThread.setPriority(Thread.MIN_PRIORITY);
+        helloThread.setPriority(Thread.MIN_PRIORITY);
+        * */
         hiThread.start();
         helloThread.start();
          /*

@@ -1,4 +1,4 @@
-package java_basics.Main;
+package java_basics.Exceptions.Main;
 
 public class Exceptionn  extends  Exception {
 
